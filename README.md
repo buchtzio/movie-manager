@@ -17,7 +17,7 @@ This full-stack application allows users to search movies from an external API, 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/[username]/movie-manager.git
+   git clone https://github.com/buchtzio/movie-manager.git
    cd movie-manager
    ```
 
